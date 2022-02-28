@@ -6,6 +6,13 @@ This was a programming project in my graduate level machine learning class at In
 ## Results
 ### Average accuracy as a function of training set size
 For this part, I had to run stratefied cross validation to generate learning curves for my Naive Bayes classifier on a variety of different training set sizes. m=0 corresponds to the maximum likelihood approach and m=1 corresponds to the MAP estimate.
+
+
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_imdb.png?raw=true)
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_yelp.png?raw=true)
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_amzn.png?raw=true)
+
+### Average accuracy as a function of the m parameter
+![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part2_imdb.png?raw=true)
+![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part2_yelp.png?raw=true)
+![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part2_amzn.png?raw=true)
