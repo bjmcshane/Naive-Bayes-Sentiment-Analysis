@@ -6,3 +6,5 @@ This was a programming project in my graduate level machine learning class at In
 ## Results
 ### Average accuracy as a function of training set size
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_imdb.png?raw=true)
+![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_yelp.png?raw=true)
+![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_amzn.png?raw=true)
