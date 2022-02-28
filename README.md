@@ -5,3 +5,4 @@ This was a programming project in my graduate level machine learning class at In
 
 ## Results
 ![alt text]("results/images/part1_imdb")
+![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part1_imdb?raw=true)
