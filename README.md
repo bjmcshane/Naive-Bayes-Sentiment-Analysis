@@ -22,3 +22,6 @@ Very similar idea here, except we're varying the m parameter instead of the trai
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part2_imdb.png?raw=true)
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part2_yelp.png?raw=true)
 ![alt text](https://github.com/bjmcshane/Naive-Bayes-Sentiment-Analysis/blob/main/results/images/part2_amzn.png?raw=true)
+
+
+Final Grade: 90%
